@@ -1,1 +1,2 @@
-192.168.1.24
+[web_servers]
+192.168.1.24 apache_pack=apache2 php_pack=libapache2-mod-php 
